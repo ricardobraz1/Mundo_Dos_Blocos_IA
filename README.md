@@ -3,7 +3,7 @@
 
 ## Equipe  
 - **Disciplina**: Inteligência Artificial
-**Professor:**: Edjard Mota
+- **Professor:**: Edjard Mota
 - **Curso**: Engenharia Da Computação
 
 - **Integrantes**:  
